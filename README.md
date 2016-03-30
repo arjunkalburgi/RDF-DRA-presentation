@@ -1,11 +1,15 @@
-# Ben's Base Reveal Project
-This is my base project for creating presentations in [reveal.js](https://github.com/hakimel/reveal.js)
+# My presentation for Winter 2016 DRA 
+Created with [reveal.js](https://github.com/hakimel/reveal.js)
+
+## About 
+Presentation is about my project building an RDF Crawler. Code for that can be seen here: https://github.com/askalburgi/RDFCrawler
+
 
 ## Instructions
 
-#### External Markdown
+#### Read
 
-Slide content is written in markdown in the slides.md file.
+Slide content is written in html in index.html 
 
 #### Element Attributes
 
